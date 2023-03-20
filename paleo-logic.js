@@ -267,7 +267,7 @@ this.terminado = true;
 };
 
 // Ejemplo de uso del juego 
-juego.iniciarJuego('facil');
+juego.iniciarJuego('Fácil');
 juego.cazar();
 juego.enfrentarPeligro();
 juego.enfrentarBestia();
